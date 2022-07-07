@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-full-width: true
+max-width: 75%
 ---
 
 Click on the icon <img src="https://chrisb590.github.io/images/file-cloud-download.png"> to download pdf.
