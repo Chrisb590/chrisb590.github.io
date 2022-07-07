@@ -1,5 +1,5 @@
 ---
-full-width= true
+full-width: true
 ---
 
 Click on the icon <img src="https://chrisb590.github.io/images/file-cloud-download.png"> to download pdf.
