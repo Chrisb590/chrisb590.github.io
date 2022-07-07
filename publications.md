@@ -1,4 +1,5 @@
 ---
+title: "Publications"
 full-width: true
 ---
 
