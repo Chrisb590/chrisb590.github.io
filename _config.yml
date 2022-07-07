@@ -14,7 +14,7 @@ author: Chris Brimacombe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "publications"
+  Publications: "aboutme"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -100,7 +100,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#E0FFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
