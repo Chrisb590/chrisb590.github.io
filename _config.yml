@@ -5,6 +5,8 @@
 
 # --- Required options --- #
 
+full-width: true
+
 # Name of website
 title: Chris Brimacombe
 
