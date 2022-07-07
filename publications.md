@@ -12,3 +12,5 @@ Luna et al. (2022). *in press*, 2022 [<img src="https://chrisb590.github.io/imag
 
 * **Brimacombe C**,  Corrless RM, and Zamir M. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *Siam Review*, 2021, 63(4): 653–720 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://epubs.siam.org/doi/pdf/10.1137/20M135786X)
+
+* Fortin MJ,  Dale MRT, and **Brimacombe C**. Network ecology in dynamic landscapes. *Proceedings of the Royal Society B*, 2021, 288(1949): 20201889 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/fortin_2021_procb.pdf)
