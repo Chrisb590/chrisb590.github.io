@@ -2,4 +2,5 @@
 
 Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf.
 
-* A. Barua,  **A.S. Mikheyev**. Many options, few solutions: Over 60 my snakes converged on a few optimal venom formulations. *in press*, 2019 [<img src="images/file-cloud-download.png">](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
+* **Brimacombe C.**,  Bodner K, Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
+Luna et al. (2022). *in press*, 2022 [<img src="images/file-cloud-download.png">](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14029)
