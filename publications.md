@@ -17,3 +17,5 @@ Luna et al. (2022). *Ecology Letters*, 2022, 1-3 [<img src="https://chrisb590.gi
 * **Brimacombe C**,  Bodner K, and Fortin MJ. Inferred seasonal interaction rewiring of a freshwater stream fish network. *Ecography*, 2021, 44(2): 219–230 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/brimacombe_2021_ecography.pdf)
 
 * Bodner K, **Brimacombe C**, Chenery ES, Greiner A, McLeod AM, Penk SR, and Vargas Soto JS. Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. *PLOS Computational Biology*, 2021, 17(1): e1008539 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/bodner_2021_plosBiology.pdf)
+
+* Leroux SJ, **Brimacombe C**, Khair S, Benidickson J, and Findlay CS. Legislative correlates of the size and number of protected areas in Canadian jurisdictions. *Biological Conservation*, 2015, 191: 375–382 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/leroux_2015_biologicalConservation.pdf)
