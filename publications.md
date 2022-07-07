@@ -1,5 +1,7 @@
 Click on the icon <img src="https://chrisb590.github.io/images/file-cloud-download.png"> to download pdf.
 
+full-width: true
+
 * **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *in press*, 2022 [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
