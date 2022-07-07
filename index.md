@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+subtitle: About me
 ---
 
 I'm a PhD student in the [Ecology and Evolutionary Biology Department](https://eeb.utoronto.ca/) at the University of Toronto with [Dr. Marie-Jos&eacute;e Fortin](https://fortin.eeb.utoronto.ca/).
