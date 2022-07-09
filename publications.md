@@ -3,7 +3,7 @@ title: "Publications"
 max-width: 100%
 ---
 
-Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="50"/> to download pdf.
+Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/> to download pdf.
 
 ## Book chapters
 ---
