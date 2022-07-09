@@ -7,7 +7,7 @@ Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" a
 
 ## Book chapters
 ---
-* Filotas &Eacute;, Aquilu&eacute; N, Brimacombe C , Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. *Springer*, 2022.
+* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. *Springer*, 2022.
 
 
 ## Articles
