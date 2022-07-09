@@ -6,11 +6,11 @@ max-width: 100%
 Click on the icon <img src="https://chrisb590.github.io/images/file-cloud-download.png"> to download pdf.
 
 ## Book chapters
-
+---
 * Filotas &Eacute;, Aquilu&eacute; N, Brimacombe C , Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. *Springer*, 2022. 
 
 ## Articles
-
+---
 * **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *Ecology Letters*, 2022, 1-3. [<img src="https://chrisb590.github.io/images/file-cloud-download.png">](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
