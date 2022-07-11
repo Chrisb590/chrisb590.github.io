@@ -3,7 +3,7 @@ title: "Publications"
 max-width: 100%
 ---
 
-[<img src="https://chrisb590.github.io/images/google_scholar.png" alt="scholar_button" width="30"/>](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en)
+Google Scholar: [<img src="https://chrisb590.github.io/images/google_scholar.png" alt="scholar_button" width="30"/>](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en)
 
 Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/> to download pdf.
 
