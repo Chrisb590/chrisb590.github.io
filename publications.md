@@ -7,7 +7,7 @@ Google Scholar: [<img src="https://chrisb590.github.io/images/google_scholar.png
 
 Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/> to download pdf.
 
-## Book chapters
+## Book Chapters
 ---
 * Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. *Springer*, 2022.
 
