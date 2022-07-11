@@ -3,6 +3,8 @@ title: "Publications"
 max-width: 100%
 ---
 
+google-scholar: citations?user=RGsfmY8AAAAJ&hl=en
+
 Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/> to download pdf.
 
 ## Book chapters
