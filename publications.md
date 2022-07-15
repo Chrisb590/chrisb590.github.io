@@ -16,7 +16,6 @@ Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" a
 ---
 <html>
 <body>
-<h2>Rank in Descending order</h2>
 <ol reversed>
    <li>Tom</li>
    <li>Jack</li>
