@@ -14,7 +14,12 @@ Click on the icon <img src="https://chrisb590.github.io/images/pdf_button.png" a
 
 ## Articles
 ---
-{: reversed="reversed"}
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 7. **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *Ecology Letters*, 2022, 1-3. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
