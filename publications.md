@@ -16,7 +16,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 ---
 
 * **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
-Luna et al. (2022). *Ecology Letters*, 2022, 1-3. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
+Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
 
 * Bodner K, **Brimacombe C**, Fortin MJ, and Moln&aacute;r P. Why body size matters: how larger fish ontogeny shapes ecological network topology. *Oikos*, 2022, 2022(3):e08569. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/bodner_2022_oikos.pdf)
