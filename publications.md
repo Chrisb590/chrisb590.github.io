@@ -15,6 +15,9 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 ## Articles
 ---
 
+* **Brimacombe C**,  Bodner K, Michalska-Smith M, Gravel D, and Fortin MJ. No strong evidence that modularity, specialization, or nestedness are linked to seasonal
+climatic variability in empirical bipartite networks. *Global Ecology and Biogeography*, 2022.
+
 * **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
