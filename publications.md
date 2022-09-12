@@ -9,8 +9,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Book Chapters
 ---
-* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. *Springer*, 2022.
-
+* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. In Boreal Forests in the Face of Climate Change--Sustainable Management. Advances in Global Change Research. *Springer-Nature*, 2022. ISBN 978-3-031-15987-9.
 
 ## Articles
 ---
