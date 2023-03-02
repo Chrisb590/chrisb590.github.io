@@ -9,13 +9,13 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Book Chapters
 ---
-* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Network framework for forest management. In Boreal Forests in the Face of Climate Change-Sustainable Management. Advances in Global Change Research. *Springer-Nature*, 2023. ISBN 978-3-031-15987-9.
+* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9.
 
 ## Articles
 ---
 
 * **Brimacombe C**,  Bodner K, Michalska-Smith MJ, Gravel D, and Fortin MJ. No strong evidence that modularity, specialization, or nestedness are linked to seasonal
-climatic variability in empirical bipartite networks. *Global Ecology and Biogeography*, 2022. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Global_Ecology_and_Biogeography_2022_Brimacombe.pdf)
+climatic variability in empirical bipartite networks. *Global Ecology and Biogeography*, 2022, 31(12): 2510-2523. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Global_Ecology_and_Biogeography_2022_Brimacombe.pdf)
 
 * **Brimacombe C**,  Bodner K, and Fortin MJ. How network size strongly determines trophic specialization: a technical comment on
 Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
