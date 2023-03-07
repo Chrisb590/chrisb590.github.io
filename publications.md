@@ -9,7 +9,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Book Chapters
 ---
-* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9.
+* Filotas &Eacute;, Aquilu&eacute; N, **Brimacombe C**, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin MJ. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/network_framework_for_forest_ecology_and_management.pdf)
 
 ## Articles
 ---
