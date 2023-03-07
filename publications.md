@@ -13,6 +13,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Articles
 ---
+* **Brimacombe C**,  Bodner K, Michalska-Smith MJ, Poisot T, and Fortin MJ. Shortcomings of reusing species interaction networks created by different sets of researchers. *PLOS Biology*, 2023.
 
 * **Brimacombe C**,  Bodner K, Michalska-Smith MJ, Gravel D, and Fortin MJ. No strong evidence that modularity, specialization, or nestedness are linked to seasonal
 climatic variability in empirical bipartite networks. *Global Ecology and Biogeography*, 2022, 31(12): 2510-2523. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Global_Ecology_and_Biogeography_2022_Brimacombe.pdf)
