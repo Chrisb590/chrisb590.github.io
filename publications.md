@@ -13,7 +13,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Articles
 ---
-* Gelmi‐Candusso TA, <ins>**Brimacombe C**</ins>, Ménard GC and Fortin M-J. Building urban predator-prey networks using camera traps. *Food Webs*, 2023, 8(10): 23108–23145.
+* Gelmi‐Candusso TA, <ins>**Brimacombe C**</ins>, M&eacutenard GC and Fortin M-J. Building urban predator-prey networks using camera traps. *Food Webs*, 2023, e00305.
 
 * <ins>**Brimacombe C**</ins>,  Corrless RM, and Zamir M. Elliptic cross sections in blood flow regulation. *AIMS Mathematics*, 2023, 8(10): 23108–23145. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/elliptic_cross_section.pdf)
 
