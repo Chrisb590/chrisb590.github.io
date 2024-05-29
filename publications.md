@@ -35,3 +35,7 @@ Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https:
 * Bodner K, <ins>**Brimacombe C**</ins>, Chenery ES, Greiner A, McLeod AM, Penk SR, and Vargas Soto JS. Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. *PLOS Computational Biology*, 2021, 17(1): e1008539. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/bodner_2021_plosBiology.pdf)
 
 * Leroux SJ, <ins>**Brimacombe C**</ins>, Khair S, Benidickson J, and Findlay CS. Legislative correlates of the size and number of protected areas in Canadian jurisdictions. *Biological Conservation*, 2015, 191: 375–382. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/leroux_2015_biologicalConservation.pdf)
+
+## Non-Peer Reviewed 
+---
+* <ins>**Brimacombe C**</ins>. PLOS Biology’s behind the paper: Why we cannot tell different types of species interaction networks apart. 2023. <a href="https://biologue.plos.org/2024/04/22/behind-the-paper-why-we-cannot-tell-different-types-of-species-interaction-networks-apart/">Link to Biologue</a>
