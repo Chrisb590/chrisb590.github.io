@@ -13,6 +13,8 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 ## Articles
 ---
+* <ins>**Brimacombe C**</ins>,  Bodner K, and Fortin M-J. Applying a method before its proof-of-concept: A cautionary tale using inferred food webs. *Global Change Biology*, 2024, 30(6): e17360. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2024_GCB.pdf)
+
 * Gelmi‐Candusso TA, <ins>**Brimacombe C**</ins>, M&eacute;nard GC, and Fortin M-J. Building urban predator-prey networks using camera traps. *Food Webs*, 2023, 37:e00305. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/predator_prey_camera_trap.pdf)
 
 * <ins>**Brimacombe C**</ins>,  Corrless RM, and Zamir M. Elliptic cross sections in blood flow regulation. *AIMS Mathematics*, 2023, 8(10): 23108–23145. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/elliptic_cross_section.pdf)
@@ -21,8 +23,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 * <ins>**Brimacombe C**</ins>,  Bodner K, Michalska-Smith MJ, Gravel D, and Fortin M-J. No strong evidence that modularity, specialization, or nestedness are linked to seasonal climatic variability in empirical bipartite networks. *Global Ecology and Biogeography*, 2022, 31(12): 2510-2523. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Global_Ecology_and_Biogeography_2022_Brimacombe.pdf)
 
-* <ins>**Brimacombe C**</ins>,  Bodner K, and Fortin M-J. How network size strongly determines trophic specialization: a technical comment on
-Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
+* <ins>**Brimacombe C**</ins>,  Bodner K, and Fortin M-J. How network size strongly determines trophic specialization: a technical comment on Luna et al. (2022). *Ecology Letters*, 2022, 25(8): 1914-1916. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2022_ecology_letters.pdf)
 
 * Bodner K, <ins>**Brimacombe C**</ins>, Fortin M-J, and Moln&aacute;r P. Why body size matters: how larger fish ontogeny shapes ecological network topology. *Oikos*, 2022, 2022(3): e08569. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/bodner_2022_oikos.pdf)
 
