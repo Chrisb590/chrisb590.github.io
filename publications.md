@@ -7,12 +7,10 @@ Google Scholar Profile [<img src="https://chrisb590.github.io/images/google_scho
 
 Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/> to download article
 
-## Book Chapters
----
-* Filotas &Eacute;, Aquilu&eacute; N, <ins>**Brimacombe C**</ins>, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin M-J. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/network_framework_for_forest_ecology_and_management.pdf)
-
 ## Articles
 ---
+* <ins>**Brimacombe C**</ins>,  Bodner K, Gravel D, Leroux SJ, Poisot T, and Fortin M-J. Publication-driven consistency in food web structures: Implications for comparative ecology. *Ecology*. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2024_ecology.pdf)
+
 * <ins>**Brimacombe C**</ins>,  Bodner K, and Fortin M-J. Applying a method before its proof-of-concept: A cautionary tale using inferred food webs. *Global Change Biology*, 2024, 30(6): e17360. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2024_GCB.pdf)
 
 * Gelmi‐Candusso TA, <ins>**Brimacombe C**</ins>, M&eacute;nard GC, and Fortin M-J. Building urban predator-prey networks using camera traps. *Food Webs*, 2023, 37:e00305. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/predator_prey_camera_trap.pdf)
@@ -36,6 +34,10 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 * Bodner K, <ins>**Brimacombe C**</ins>, Chenery ES, Greiner A, McLeod AM, Penk SR, and Vargas Soto JS. Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. *PLOS Computational Biology*, 2021, 17(1): e1008539. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/bodner_2021_plosBiology.pdf)
 
 * Leroux SJ, <ins>**Brimacombe C**</ins>, Khair S, Benidickson J, and Findlay CS. Legislative correlates of the size and number of protected areas in Canadian jurisdictions. *Biological Conservation*, 2015, 191: 375–382. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/leroux_2015_biologicalConservation.pdf)
+
+## Book Chapters
+---
+* Filotas &Eacute;, Aquilu&eacute; N, <ins>**Brimacombe C**</ins>, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin M-J. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/network_framework_for_forest_ecology_and_management.pdf)
 
 ## Non-Peer Reviewed 
 ---
