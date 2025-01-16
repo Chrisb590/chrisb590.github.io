@@ -3,6 +3,6 @@ layout: page
 subtitle: About me
 ---
 
-I'm a PhD student in the [Ecology and Evolutionary Biology Department](https://eeb.utoronto.ca/) at the University of Toronto with [Dr. Marie-Jos&eacute;e Fortin](https://fortin.eeb.utoronto.ca/).
+I'm a Postdoctoral Fellow in the [Integrative Biology Department](https://www.uoguelph.ca/ib/) at the University of Guelph with [Dr. Kevin McCann](https://www.mccannlab.net/).
 
 I primarily study the application of networks to ecological data.
