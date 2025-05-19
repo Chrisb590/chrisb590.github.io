@@ -35,6 +35,10 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 
 * Leroux SJ, <ins>**Brimacombe C**</ins>, Khair S, Benidickson J, and Findlay CS. Legislative correlates of the size and number of protected areas in Canadian jurisdictions. *Biological Conservation*, 2015, 191:375–382. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/leroux_2015_biologicalConservation.pdf)
 
+## Thesis
+* <ins>**Brimacombe C**</ins>. On the effectiveness of analysing ecological communities as networks. 2025. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Phd_thesis.pdf)
+---
+
 ## Book Chapters
 ---
 * Filotas &Eacute;, Aquilu&eacute; N, <ins>**Brimacombe C**</ins>, Drapeau P, Keeton W, Kneeshaw D, Messier C, Witt&eacute; I, and Fortin M-J. Editors: Girona MM, Morin H, Gauthier S, Bergeron Y. In: Boreal Forests in the Face of Climate Change-Sustainable Management. Network framework for forest management. *Springer-Nature*, 2023, pp. 685-717. ISBN 978-3-031-15987-9. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/network_framework_for_forest_ecology_and_management.pdf)
