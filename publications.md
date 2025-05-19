@@ -3,7 +3,7 @@ title: "Publications"
 max-width: 100%
 ---
 
-For most up to date list, see [Google Scholar](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en)
+For most up to date list, see [Google Scholar](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en).
 
 ## Articles
 ---

@@ -7,4 +7,4 @@ I'm a Postdoctoral Fellow in the [Integrative Biology Department](https://www.uo
 
 I primarily study the application of networks to ecological data.
 
-Email: cbrimaco@uoguelph.ca, Bluesky: [chrisbrimacombe](https://bsky.app/profile/chrisbrimacombe.bsky.social)
+Email: cbrimaco@uoguelph.ca, Bluesky: [chrisbrimacombe](https://bsky.app/profile/chrisbrimacombe.bsky.social).
