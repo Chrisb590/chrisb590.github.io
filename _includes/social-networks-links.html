@@ -84,6 +84,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.bluesky -%}
+  <li class="list-inline-item">
+    <a href="https://bsky.app/profile/{{ site.social-network-links.bluesky }}" title="Bluesky">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <img src="{{ site.baseurl }}/assets/icons/bluesky.svg" class="fa-stack-1x fa-inverse" style="width: 1em; height: 1em; margin-top: 3px;" alt="Bluesky"/>
+      </span>
+      <span class="sr-only">Bluesky</span>
+    </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.reddit -%}
   <li class="list-inline-item">
     <a href="https://reddit.com/u/{{ site.social-network-links.reddit }}" title="Reddit">

@@ -36,7 +36,7 @@ Click on <img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_b
 * Leroux SJ, <ins>**Brimacombe C**</ins>, Khair S, Benidickson J, and Findlay CS. Legislative correlates of the size and number of protected areas in Canadian jurisdictions. *Biological Conservation*, 2015, 191:375–382. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/leroux_2015_biologicalConservation.pdf)
 
 ## Thesis
-* <ins>**Brimacombe C**</ins>. On the effectiveness of analysing ecological communities as networks. 2025. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Phd_thesis.pdf)
+* **<ins>Brimacombe C</ins>**. On the effectiveness of analysing ecological communities as networks. 2025. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Phd_thesis.pdf)
 ---
 
 ## Book Chapters
