@@ -3,7 +3,7 @@ title: "Publications"
 max-width: 100%
 ---
 
-Google Scholar Profile [<img src="https://chrisb590.github.io/images/google_scholar.png" alt="scholar_button" width="30"/>](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en)
+For most up to date list, see [Google Scholar](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en)
 
 ## Articles
 ---
