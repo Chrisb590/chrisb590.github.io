@@ -7,6 +7,8 @@ For most up to date list, see [Google Scholar](https://scholar.google.ca/citatio
 
 ## Articles
 ---
+* Banville F, Strydom T, Blyth PSA, <ins>**Brimacombe C**</ins>, Catchen MD, Dansereau G, Higino G, Malpas T, Mayall H, Norman K, Gravel D, and Poisot T. Deciphering probabilistic species interaction networks. *Ecology Letters*, 2025, 28(6):e70161. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/Banville_ecology_letters.pdf)
+
 * <ins>**Brimacombe C**</ins>,  Bodner K, Gravel D, Leroux SJ, Poisot T, and Fortin M-J. Publication-driven consistency in food web structures: Implications for comparative ecology. *Ecology*, 2025, 106(1):e4467. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2024_ecology.pdf)
 
 * <ins>**Brimacombe C**</ins>,  Bodner K, and Fortin M-J. Applying a method before its proof-of-concept: A cautionary tale using inferred food webs. *Global Change Biology*, 2024, 30(6):e17360. [<img src="https://chrisb590.github.io/images/pdf_button.png" alt="pdf_button" width="30"/>](https://chrisb590.github.io/pdf/brimacombe_2024_GCB.pdf)
