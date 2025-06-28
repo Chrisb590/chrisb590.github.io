@@ -3,7 +3,7 @@ title: "Publications"
 max-width: 100%
 ---
 
-For most up to date list, see [Google Scholar](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en).
+For the most up-to-date list, see [Google Scholar](https://scholar.google.ca/citations?user=RGsfmY8AAAAJ&hl=en).
 
 ## Articles
 ---
@@ -47,4 +47,4 @@ For most up to date list, see [Google Scholar](https://scholar.google.ca/citatio
 ---
 * <ins>**Brimacombe C**</ins>. PLOS Biology’s behind the paper: Why we cannot tell different types of species interaction networks apart. 2023. <a href="https://biologue.plos.org/2024/04/22/behind-the-paper-why-we-cannot-tell-different-types-of-species-interaction-networks-apart/">Link to Biologue</a>.
 
-* Bodner K, <ins>**Brimacombe C**</ins>, Fortin M-J. Re-examining evidence for birds optimizing fruit size near their geo-graphic limits. Science. 2024. <a href="https://www.science.org/doi/10.1126/science.adj1856#elettersSection">Link to eLetter</a>.
+* Bodner K, <ins>**Brimacombe C**</ins>, Fortin M-J. Re-examining evidence for birds optimizing fruit size near their geographic limits. Science. 2024. <a href="https://www.science.org/doi/10.1126/science.adj1856#elettersSection">Link to eLetter</a>.
